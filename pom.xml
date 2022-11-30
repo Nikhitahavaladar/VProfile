@@ -133,11 +133,11 @@
                         <version>9.2.11.v20150529</version>
                         <configuration>
                             <scanIntervalSeconds>10</scanIntervalSeconds>
-                       <webApp>
-                        <contextPath>/</contextPath>
-                    </webApp>
-                </configuration>
-              </plugin>
+                            <webApp>
+                              <contextPath>/</contextPath>
+                            </webApp>
+                       </configuration>
+                   </plugin>
 		<!-- CODE COVERAGE -->
 		    <plugin>
 		        <groupId>org.jacoco</groupId>
